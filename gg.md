@@ -1,3 +1,5 @@
+
+```
 Create Catkin Workspace:
 $ mkdir -p /home/workspace/catkin_ws/src
 $ cd /home/workspace/catkin_ws/src
@@ -29,3 +31,4 @@ $ rosrun rqt_graph rqt_graph
 Install the package:
 $ cd /home/workspace/catkin_ws/src/
 $ git clone https://github.com/udacity/robot_pose_ekf
+```
